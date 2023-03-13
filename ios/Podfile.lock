@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - ios_insecure_screen_detector (0.0.1):
+    - Flutter
+  - screen_protector (1.2.0):
+    - Flutter
+    - ScreenProtectorKit (~> 1.3.0)
+  - ScreenProtectorKit (1.3.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - ios_insecure_screen_detector (from `.symlinks/plugins/ios_insecure_screen_detector/ios`)
+  - screen_protector (from `.symlinks/plugins/screen_protector/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ScreenProtectorKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  ios_insecure_screen_detector:
+    :path: ".symlinks/plugins/ios_insecure_screen_detector/ios"
+  screen_protector:
+    :path: ".symlinks/plugins/screen_protector/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  ios_insecure_screen_detector: 6197868403aa3765491fadb6edb13bb81ec978cd
+  screen_protector: e2bf297dd1b12760776fe7f918d96efd9e6cd823
+  ScreenProtectorKit: dd84c9635d5e4b941c5c0dedfcb910d08f532a6b
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.12.0
